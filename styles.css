@@ -21,3 +21,7 @@ h2, h3 {
 ul {
   list-style-type: square
 }
+
+.nav-tabs>li.active>a {
+    background: #FDF5E6
+}
